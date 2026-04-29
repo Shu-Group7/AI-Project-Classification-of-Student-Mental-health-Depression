@@ -1,4 +1,4 @@
-# AI-Project-Classification-of-Student-Mental-health-Depression
+
 # Student Depression Prediction System
 
 ## Overview
